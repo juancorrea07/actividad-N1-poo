@@ -22,4 +22,6 @@ class Note:
         return f"Date: {self.creation_date}\n {self.title}: {text}"
 
 
+class Notebook:
+
 
